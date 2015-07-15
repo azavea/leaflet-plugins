@@ -14,6 +14,7 @@
   "devDependencies": {
     "jshint": "2.5.0"
   },
+  "main": "empty.js",
   "contributors": [
     "Bruno Bergot <bruno@eliaz.fr>"
   ],
