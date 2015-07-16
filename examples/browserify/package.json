@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+      "leaflet-plugins": "git://github.com/azavea/leaflet-plugins#feature/browserify"
+  }
+}
